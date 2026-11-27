@@ -1402,6 +1402,10 @@ Auto paigutus
   <string name="morphe_shorts_autoplay_summary">Praeguse Shorti kordamise asemel liigub see automaatselt järgmise Shorti juurde</string>
   <string name="morphe_shorts_autoplay_background_title">Automaatne esitus taustal</string>
   <string name="morphe_shorts_autoplay_background_summary">Liigub taustal esitamise ajal automaatselt järgmisele Shortile</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Automaatne esitus Shorts\'i menüüs</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Kuvab Shorts\'i mängija menüüs elementi, mis lülitab Shorts\'i automaatse esituse sisse või välja</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Shorts\'i automaatne esitus · Sisse</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Shorts\'i automaatne esitus · Välja</string>
   <string name="morphe_skip_live_shorts_title">Jäta Shorts\'i vahele</string>
   <string name="morphe_skip_live_shorts_summary">Jätab mööda otseülekanned, mis ilmunevad Shorts\'i voos</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

@@ -1402,6 +1402,10 @@ Second \"item\" text"</string>
   <string name="morphe_shorts_autoplay_summary">Ավտոմատ կերպով անցնում է հաջորդ Short-ին՝ ընթացիկը կրկնելու փոխարեն</string>
   <string name="morphe_shorts_autoplay_background_title">Ավտոմատ միացում հետին պլանում</string>
   <string name="morphe_shorts_autoplay_background_summary">Հետին պլանում նվագարկման ժամանակ ավտոմատ կերպով անցնում է հաջորդ Short-ին</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Ավտոմատ նվագարկում Shorts մենյուում</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Ցույց է տալիս Shorts նվագարկիչի մենյուի տարր, որն միացնում կամ անջատում է Shorts-երի ավտոմատ նվագարկումը</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Shorts-երի ավտոմատ նվագարկում · Միացված</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Shorts-երի ավտոմատ նվագարկում · Անջատված</string>
   <string name="morphe_skip_live_shorts_title">Բաց թողնել ուղիղ Shorts-երը</string>
   <string name="morphe_skip_live_shorts_summary">Բաց է թողնում ուղիղ հեռարձակումները, որոնք հայտնվում են Shorts-երի հոսքում</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

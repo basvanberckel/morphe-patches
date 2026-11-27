@@ -1402,6 +1402,10 @@ Auto-indeling
   <string name="morphe_shorts_autoplay_summary">Schakelt automatisch naar de volgende Short in plaats van de huidige te herhalen</string>
   <string name="morphe_shorts_autoplay_background_title">Automatisch afspelen op de achtergrond</string>
   <string name="morphe_shorts_autoplay_background_summary">Schakelt automatisch naar de volgende Short in tijdens het afspelen op de achtergrond</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Automatisch afspelen in het Shorts-menu</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Toont een item in het menu van de Shorts-speler waarmee Shorts automatisch afspelen kan worden ingeschakeld of uitgeschakeld</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Shorts automatisch afspelen · Aan</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Shorts automatisch afspelen · Uit</string>
   <string name="morphe_skip_live_shorts_title">Live-Shorts overslaan</string>
   <string name="morphe_skip_live_shorts_summary">Slaat live streams over die in de Shorts-feed verschijnen</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

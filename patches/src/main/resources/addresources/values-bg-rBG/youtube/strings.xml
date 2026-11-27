@@ -1402,6 +1402,10 @@ Second \"item\" text"</string>
   <string name="morphe_shorts_autoplay_summary">Автоматично преминава към следващото Short, вместо да повтаря текущото</string>
   <string name="morphe_shorts_autoplay_background_title">Автоматично възпроизвеждане във фонов режим</string>
   <string name="morphe_shorts_autoplay_background_summary">Автоматично преминава към следващото Short по време на възпроизвеждане във фонов режим</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Автоматично пускане в менюто на Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Показва елемент в менюто на плейъра на Shorts, който включва или изключва автоматичното пускане на Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Автоматично пускане на Shorts · Вкл</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Автоматично пускане на Shorts · Изкл</string>
   <string name="morphe_skip_live_shorts_title">Пропускане на Shorts на живо</string>
   <string name="morphe_skip_live_shorts_summary">Пропуска потоци на живо, които се появяват в емисията с Shorts</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

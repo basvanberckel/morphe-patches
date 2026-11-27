@@ -1402,6 +1402,10 @@ Automobilski izgled
   <string name="morphe_shorts_autoplay_summary">Automatski prelazi na sljedeći Short umjesto ponavljanja trenutnog</string>
   <string name="morphe_shorts_autoplay_background_title">Automatsko puštanje u pozadini</string>
   <string name="morphe_shorts_autoplay_background_summary">Automatski prelazi na sljedeći Short tokom reprodukcije u pozadini</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Automatsko puštanje u Shorts meniju</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Prikazuje stavku u meniju Shorts plejera koja uključuje ili isključuje automatsko puštanje Shorts videa</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Automatsko puštanje Shorts videa · Uključeno</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Automatsko puštanje Shorts videa · Isključeno</string>
   <string name="morphe_skip_live_shorts_title">Preskoči live Shorts</string>
   <string name="morphe_skip_live_shorts_summary">Preskače live streamove koji se pojavljuju u Shorts feedu</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

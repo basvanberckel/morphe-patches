@@ -1402,6 +1402,10 @@ Settings → Playback (বা Autoplay) → Autoplay next video"</string>
   <string name="morphe_shorts_autoplay_summary">বৰ্তমানৰটো পুনৰাবৃত্তি কৰাৰ পৰিৱৰ্তে স্বয়ংক্ৰিয়ভাৱে পৰৱৰ্তী Short-লৈ আগবাঢ়ি যায়</string>
   <string name="morphe_shorts_autoplay_background_title">বেকগ্ৰাউণ্ডত অটোপ্লে কৰক</string>
   <string name="morphe_shorts_autoplay_background_summary">বেকগ্ৰাউণ্ড প্লেবেকৰ সময়ত স্বয়ংক্ৰিয়ভাৱে পৰৱৰ্তী Short-লৈ আগবাঢ়ি যায়</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Shorts মেনুত Autoplay</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Shorts প্লেয়াৰ মেনুত এটা আইটেম দেখুৱায় যাৰ দ্বাৰা Autoplay Shorts অন বা অফ কৰিব পাৰি</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Autoplay Shorts · অন</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Autoplay Shorts · অফ</string>
   <string name="morphe_skip_live_shorts_title">লাইভ Shorts স্কিপ কৰক</string>
   <string name="morphe_skip_live_shorts_summary">Shorts ফিডত দেখা দিয়া লাইভ ষ্ট্ৰিমসমূহ স্কিপ কৰে</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

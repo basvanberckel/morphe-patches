@@ -1402,6 +1402,10 @@ Automobilní rozvržení
   <string name="morphe_shorts_autoplay_summary">Automaticky přechází na další Shorts místo opakování aktuálního</string>
   <string name="morphe_shorts_autoplay_background_title">Automatické přehrávání na pozadí</string>
   <string name="morphe_shorts_autoplay_background_summary">Automaticky přechází na další Shorts během přehrávání na pozadí</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Automatické přehrávání v nabídce Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Zobrazí položku v nabídce přehrávače Shorts, která zapíná nebo vypíná automatické přehrávání Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Automatické přehrávání Shorts · Zapnuto</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Automatické přehrávání Shorts · Vypnuto</string>
   <string name="morphe_skip_live_shorts_title">Přeskočit živé Shorts</string>
   <string name="morphe_skip_live_shorts_summary">Přeskakuje živé streamy, které se zobrazují v feedu Shorts</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

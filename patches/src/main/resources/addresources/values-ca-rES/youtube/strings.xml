@@ -1402,6 +1402,10 @@ Disseny d'automoció
   <string name="morphe_shorts_autoplay_summary">Avança al següent Short automàticament en lloc de repetir l\'actual</string>
   <string name="morphe_shorts_autoplay_background_title">Reproducció automàtica en segon pla</string>
   <string name="morphe_shorts_autoplay_background_summary">Avança al següent Short automàticament durant la reproducció en segon pla</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Reproducció automàtica al menú de Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Mostra un element al menú del reproductor de Shorts que activa o desactiva la Reproducció automàtica de Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Reproducció automàtica de Shorts · Activada</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Reproducció automàtica de Shorts · Desactivada</string>
   <string name="morphe_skip_live_shorts_title">Salta els Shorts en viu</string>
   <string name="morphe_skip_live_shorts_summary">Omet les transmissions en directe que apareixen al feed de Shorts</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

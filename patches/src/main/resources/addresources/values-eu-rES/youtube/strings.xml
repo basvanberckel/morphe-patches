@@ -1402,6 +1402,10 @@ Automobilen diseinua
   <string name="morphe_shorts_autoplay_summary">Hurrengo Short-era automatikoki pasatzen da, unekoa errepikatu beharrean</string>
   <string name="morphe_shorts_autoplay_background_title">Autoerreproduzitu atzeko planoan</string>
   <string name="morphe_shorts_autoplay_background_summary">Hurrengo Short-era automatikoki pasatzen da atzeko planoan erreproduzitzen den bitartean</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Autoplay Shorts menuan</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Shorts automatikoki erreproduzitzen duten aukera aktibatzeko edo desaktibatzeko elementu bat erakusten du Shortsatzearen menuan</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Shorts automatikoki erreproduzitu · Aktibatu</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Shorts automatikoki erreproduzitu · Desaktibatu</string>
   <string name="morphe_skip_live_shorts_title">Saltatu Shorts zuzenekoak</string>
   <string name="morphe_skip_live_shorts_summary">Shorts feed-ean agertzen diren zuzeneko emisioak saltatzen ditu</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

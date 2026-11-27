@@ -1402,6 +1402,10 @@ OpenRouter.aiን ለመክፈት እዚህ ይጫኑ"</string>
   <string name="morphe_shorts_autoplay_summary">አሁኑን ከመደጋገም ይልቅ በራሱ ወደሚቀጥለው Short ይሸጋገራል</string>
   <string name="morphe_shorts_autoplay_background_title">በጀርባ በራሱ እንዲጫወት አድርግ</string>
   <string name="morphe_shorts_autoplay_background_summary">በጀርባ በሚጫወትበት ወቅት በራሱ ወደሚቀጥለው Short ይሸጋገራል</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">በ Shorts ሜኑ ውስጥ በራሱ እንዲጫወት ማድረግ</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">በ Shorts ፕሌየር ሜኑ ውስጥ የ Shorts በራሱ እንዲጫወት (Autoplay) ማብሪያ እና ማጥፊያ ያሳያል</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Shorts በራሱ እንዲጫወት ማድረግ · በርቷል</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Shorts በራሱ እንዲጫወት ማድረግ · ጠፍቷል</string>
   <string name="morphe_skip_live_shorts_title">ቀጥታ Shortsን ዝለል</string>
   <string name="morphe_skip_live_shorts_summary">በ Shorts ፊድ ውስጥ የሚታዩ የቀጥታ ስርጭቶችን ይዘላል</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

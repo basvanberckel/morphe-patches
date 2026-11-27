@@ -1402,6 +1402,10 @@ Automotive-layout
   <string name="morphe_shorts_autoplay_summary">Går automatisk til den næste Short i stedet for at gentage den aktuelle</string>
   <string name="morphe_shorts_autoplay_background_title">Automatisk afspilning i baggrunden</string>
   <string name="morphe_shorts_autoplay_background_summary">Går automatisk til den næste Short under afspilning i baggrunden</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Automatisk afspilning i Shorts-menuen</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Viser et element i menuen for Shorts-afspilleren, der slår automatisk afspilning af Shorts til eller fra</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Automatisk afspilning af Shorts · Til</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Automatisk afspilning af Shorts · Fra</string>
   <string name="morphe_skip_live_shorts_title">Spring live Shorts over</string>
   <string name="morphe_skip_live_shorts_summary">Spring live-strømme over, der vises i Shorts-feedet</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

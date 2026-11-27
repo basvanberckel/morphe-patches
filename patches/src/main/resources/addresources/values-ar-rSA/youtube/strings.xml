@@ -1406,6 +1406,10 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_shorts_autoplay_summary">ينتقل إلى Short التالي تلقائيًا بدلًا من تكرار Short الحالي</string>
   <string name="morphe_shorts_autoplay_background_title">التشغيل التلقائي في الخلفية</string>
   <string name="morphe_shorts_autoplay_background_summary">ينتقل إلى Short التالي تلقائيًا أثناء التشغيل في الخلفية</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">التشغيل التلقائي في قائمة Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">عرض عنصر في قائمة مشغل Shorts لتشغيل التشغيل التلقائي لفيديوهات Shorts أو إيقافه</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">التشغيل التلقائي لفيديوهات Shorts · قيد التشغيل</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">التشغيل التلقائي لفيديوهات Shorts · متوقف</string>
   <string name="morphe_skip_live_shorts_title">تخطي بث Shorts المباشر</string>
   <string name="morphe_skip_live_shorts_summary">يتخطى البثوث المباشرة التي تظهر في خلاصة Shorts</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

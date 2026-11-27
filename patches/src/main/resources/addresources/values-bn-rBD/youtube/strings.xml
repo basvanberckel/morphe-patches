@@ -1402,6 +1402,10 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_shorts_autoplay_summary">বর্তমান Short পুনরাবৃত্তি করার পরিবর্তে স্বয়ংক্রিয়ভাবে পরবর্তী Short-এ চলে যায়</string>
   <string name="morphe_shorts_autoplay_background_title">ব্যাকগ্রাউন্ডে স্বয়ংক্রিয়ভাবে প্লে করুন</string>
   <string name="morphe_shorts_autoplay_background_summary">ব্যাকগ্রাউন্ড প্লেব্যাকের সময় স্বয়ংক্রিয়ভাবে পরবর্তী Short-এ চলে যায়</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Shorts মেনুতে অটোপ্লে</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Shorts প্লেয়ার মেনুতে একটি আইটেম দেখায় যা অটোপ্লে Shorts চালু বা বন্ধ করে</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">অটোপ্লে Shorts · চালু</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">অটোপ্লে Shorts · বন্ধ</string>
   <string name="morphe_skip_live_shorts_title">লাইভ Shorts এড়িয়ে যান</string>
   <string name="morphe_skip_live_shorts_summary">Shorts ফিডে উপস্থিত লাইভ স্ট্রিমগুলো এড়িয়ে যায়</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

@@ -1402,6 +1402,10 @@ Automotive-uitleg
   <string name="morphe_shorts_autoplay_summary">Gaan outomaties voort na die volgende Short in plaas daarvan om die huidige te herhaal</string>
   <string name="morphe_shorts_autoplay_background_title">Outospeel in agtergrond</string>
   <string name="morphe_shorts_autoplay_background_summary">Gaan outomaties voort na die volgende Short tydens agtergrondweergawe</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Outospeel in die Shorts-kieslys</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">Wys \'n item in die Shorts-spelerkieslys wat Outospeel Shorts aan- of afskakel</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">Outospeel Shorts · Aan</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">Outospeel Shorts · Af</string>
   <string name="morphe_skip_live_shorts_title">Slaan lewende Shorts oor</string>
   <string name="morphe_skip_live_shorts_summary">Slaan regstreekse strome oor wat in die Shorts-voer voorkom</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->

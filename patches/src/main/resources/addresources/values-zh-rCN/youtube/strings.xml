@@ -1402,6 +1402,10 @@ Second \"item\" text"</string>
   <string name="morphe_shorts_autoplay_summary">自动前进到下一个 Shorts，而不是重复当前的 Shorts</string>
   <string name="morphe_shorts_autoplay_background_title">后台自动播放</string>
   <string name="morphe_shorts_autoplay_background_summary">在后台播放时自动前进到下一个 Shorts</string>
+  <string name="morphe_shorts_autoplay_flyout_button_title">Shorts 菜单中的自动播放</string>
+  <string name="morphe_shorts_autoplay_flyout_button_summary">在 Shorts 播放器菜单中显示一个用于开启或关闭自动播放 Shorts 的项目</string>
+  <string name="morphe_shorts_autoplay_flyout_title_on">自动播放 Shorts · 开启</string>
+  <string name="morphe_shorts_autoplay_flyout_title_off">自动播放 Shorts · 关闭</string>
   <string name="morphe_skip_live_shorts_title">跳过直播 Short</string>
   <string name="morphe_skip_live_shorts_summary">跳过出现在 Short 信息流中的直播</string>
   <!-- layout.playbackinfeeds.playbackInFeedsPatch -->
